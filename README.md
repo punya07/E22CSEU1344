@@ -19,3 +19,4 @@ Install dependencies:
 
 ```bash
 npm install
+![image](https://github.com/user-attachments/assets/0009b7b5-049e-4ec9-b386-3c4c8591a9b6)
